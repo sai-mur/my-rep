@@ -4,7 +4,6 @@ sources:
     database: MURALI
     schema: MURALI_SOURCE
 
-
     tables:
       - name: emp
       - name: dept
