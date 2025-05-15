@@ -5,5 +5,5 @@ sources:
     schema: MURALI_SOURCE
 
     tables:
-      - name: emp
-      - name: dept
+      - name: DEPT
+      - name: EMP
